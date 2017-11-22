@@ -13,7 +13,7 @@
 
 #### Short Term Barriers 
 <br>
-<span class="aside">List of minimum requirements including branding, technology and responsiveness/accessibility 
+List of minimum requirements including branding, technology and responsiveness/accessibility 
 <br>
 Method of approval Non-un.org domain approval process? 
 <br>
@@ -23,19 +23,17 @@ Outside Development? Does there have to be a CMS?
 <br>
 Does the CMS have to be Drupal? Is Uniteweb the standard and, if so, are websites required to use it? 
 <br>
-Are there banned technologies?</span>
+Are there banned technologies?
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
+#### No more <span class="gray">Mid Term Barriers</span>.
+Plan with DPI for legacy sites
 <br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
-
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
+Method to Track Owners and Database/Directory for owners
 <br>
+Position to manage this project
+
 #### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
 
 <span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
