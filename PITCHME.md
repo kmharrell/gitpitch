@@ -1,21 +1,29 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# UN<span class="gold">Website<br>Harmonization</span>
 
 #### Markdown Presentations For Everyone on Git.*
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">Barriers to Success & Project Stages </span>
 
 ---
 
 @title[PITCHME.md]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Short Term Barriers 
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">List of minimum requirements including branding, technology and responsiveness/accessibility 
+<br>
+Method of approval Non-un.org domain approval process? 
+<br>
+Tech standards need to be clearly defined. Can there be outside hosting?
+<br>
+Outside Development? Does there have to be a CMS?
+<br>
+Does the CMS have to be Drupal? Is Uniteweb the standard and, if so, are websites required to use it? 
+<br>
+Are there banned technologies?</span>
 
 ---
 
