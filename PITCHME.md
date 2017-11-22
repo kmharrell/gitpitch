@@ -13,17 +13,17 @@
 
 #### Short Term Barriers 
 <br>
-List of minimum requirements including branding, technology and responsiveness/accessibility 
+<span class="blue">List of minimum requirements including branding, technology and responsiveness/accessibility </span>
 <br>
-Method of approval Non-un.org domain approval process? 
+<span class="blue">Method of approval Non-un.org domain approval process? </span>
 <br>
-Tech standards need to be clearly defined. Can there be outside hosting?
+<span class="blue">Tech standards need to be clearly defined. Can there be outside hosting?</span>
 <br>
-Outside Development? Does there have to be a CMS?
+<span class="blue">Outside Development? Does there have to be a CMS?</span>
 <br>
-Does the CMS have to be Drupal? Is Uniteweb the standard and, if so, are websites required to use it? 
+<span class="blue">Does the CMS have to be Drupal? Is Uniteweb the standard and, if so, are websites required to use it? </span>
 <br>
-Are there banned technologies?
+<span class="blue">Are there banned technologies?</span>
 
 ---
 
