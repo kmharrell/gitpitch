@@ -6,6 +6,10 @@
   color: gray;
 }
 
+.blue {
+  font-size: 50%;
+}
+
 span.byline, span.aside {
   color: #bbb;
 }
